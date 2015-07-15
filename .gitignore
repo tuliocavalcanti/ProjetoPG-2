@@ -11,16 +11,17 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Fortran module files
 *.mod
 
 # Compiled Static libraries
+*.log
+*.sql
+*.sqlite
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
